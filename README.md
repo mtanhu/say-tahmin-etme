@@ -1,0 +1,2 @@
+# say-tahmin-etme
+python
