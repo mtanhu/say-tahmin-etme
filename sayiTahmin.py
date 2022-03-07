@@ -1,5 +1,6 @@
 
 # sayi tahmin oyunu kodlayalim.
+# murattanhu
 
 import random
 
